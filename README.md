@@ -49,7 +49,7 @@ It is possible to implement your own exporter for Gorilla, with the help of an
 
 ## License
 
-Copyright © 2018 Christian Weilbach
+Copyright © 2018 Christian Weilbach, Shriphani Palakodety
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
